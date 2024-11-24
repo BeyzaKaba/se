@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Argentina",
+        "region": "Americas",
+        "code": "AR"
+    },
+    {
+        "name": "Paraguay",
+        "region": "Americas",
+        "code": "PY"
+    },
+    {
+        "name": "Chile",
+        "region": "Americas",
+        "code": "CL"
+    },
+    {
+        "name": "Colombia",
+        "region": "Americas",
+        "code": "CO"
+    },
+    {
+        "name": "Costa Rica",
+        "region": "Americas",
+        "code": "CR"
+    },
+    {
+        "name": "Ecuador",
+        "region": "Americas",
+        "code": "EC"
+    },
+    {
+        "name": "El Salvador",
+        "region": "Americas",
+        "code": "SV"
+    },
+    {
+        "name": "Guatemala",
+        "region": "Americas",
+        "code": "GT"
+    },
+    {
+        "name": "Honduras",
+        "region": "Americas",
+        "code": "HN"
+    },
+    {
+        "name": "Mexico",
+        "region": "Americas",
+        "code": "MX"
+    },
+    {
+        "name": "Nicaragua",
+        "region": "Americas",
+        "code": "NI"
+    },
+    {
+        "name": "Peru",
+        "region": "Americas",
+        "code": "PE"
+    },
+    {
+        "name": "Uruguay",
+        "region": "Americas",
+        "code": "UY"
+    },
+    {
+        "name": "Panama",
+        "region": "Americas",
+        "code": "PA"
+    },
+    {
+        "name": "Venezuela",
+        "region": "Americas",
+        "code": "VE"
+    },
+    {
+        "name": "Bolivia",
+        "region": "Americas",
+        "code": "BO"
+    },
+    {
+        "name": "Dominican Republic",
+        "region": "Americas",
+        "code": "DO"
+    },
+    {
+        "name": "United States",
+        "region": "Americas",
+        "code": "US"
+    }
+]

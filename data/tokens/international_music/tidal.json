@@ -1,0 +1,24 @@
+[
+    {
+        "refresh_token": "",
+        "token": "",
+        "client_id": "",
+        "capacities": [
+            "LOSSLESS",
+            "HIGH",
+            "LOW"
+        ],
+        "expire": 1
+    },
+    {
+        "refresh_token": "",
+        "token": "",
+        "client_id": "",
+        "capacities": [
+            "HI_RES",
+            "DOLBY",
+            "SONY"
+        ],
+        "expire": 1
+    }
+]

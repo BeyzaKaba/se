@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Turkey",
+        "region": "Asia",
+        "code": "TR"
+    },
+    {
+        "name": "India",
+        "region": "Asia",
+        "code": "IN"
+    },
+    {
+        "name": "Malaysia",
+        "region": "Asia",
+        "code": "MY"
+    },
+    {
+        "name": "Afghanistan",
+        "region": "Asia",
+        "code": "AF"
+    },
+    {
+        "name": "\u00c5land Islands",
+        "region": "Europe",
+        "code": "AX"
+    },
+    {
+        "name": "Albania",
+        "region": "Europe",
+        "code": "AL"
+    },
+    {
+        "name": "American Samoa",
+        "region": "Oceania",
+        "code": "AS"
+    },
+    {
+        "name": "Andorra",
+        "region": "Europe",
+        "code": "AD"
+    },
+    {
+        "name": "Angola",
+        "region": "Africa",
+        "code": "AO"
+    },
+    {
+        "name": "Anguilla",
+        "region": "Americas",
+        "code": "AI"
+    },
+    {
+        "name": "Argentina",
+        "region": "Americas",
+        "code": "AR"
+    },
+    {
+        "name": "Armenia",
+        "region": "Asia",
+        "code": "AM"
+    },
+    {
+        "name": "Aruba",
+        "region": "Americas",
+        "code": "AW"
+    },
+    {
+        "name": "Australia",
+        "region": "Oceania",
+        "code": "AU"
+    },
+    {
+        "name": "Austria",
+        "region": "Europe",
+        "code": "AT"
+    },
+    {
+        "name": "Azerbaijan",
+        "region": "Asia",
+        "code": "AZ"
+    },
+    {
+        "name": "Bahamas",
+        "region": "Americas",
+        "code": "BS"
+    },
+    {
+        "name": "Bahrain",
+        "region": "Asia",
+        "code": "BH"
+    },
+    {
+        "name": "Bangladesh",
+        "region": "Asia",
+        "code": "BD"
+    },
+    {
+        "name": "Barbados",
+        "region": "Americas",
+        "code": "BB"
+    },
+    {
+        "name": "Belarus",
+        "region": "Europe",
+        "code": "BY"
+    },
+    {
+        "name": "Belgium",
+        "region": "Europe",
+        "code": "BE"
+    },
+    {
+        "name": "Belize",
+        "region": "Americas",
+        "code": "BZ"
+    },
+    {
+        "name": "Benin",
+        "region": "Africa",
+        "code": "BJ"
+    },
+    {
+        "name": "Bermuda",
+        "region": "Americas",
+        "code": "BM"
+    },
+    {
+        "name": "Bolivia",
+        "region": "Americas",
+        "code": "BO"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "region": "Europe",
+        "code": "BA"
+    },
+    {
+        "name": "Brazil",
+        "region": "Americas",
+        "code": "BR"
+    },
+    {
+        "name": "Bulgaria",
+        "region": "Europe",
+        "code": "BG"
+    },
+    {
+        "name": "Cayman Islands",
+        "region": "Americas",
+        "code": "KY"
+    },
+    {
+        "name": "China",
+        "region": "Asia",
+        "code": "CN"
+    },
+    {
+        "name": "Cuba",
+        "region": "Americas",
+        "code": "CU"
+    },
+    {
+        "name": "Cyprus",
+        "region": "Europe",
+        "code": "CY"
+    },
+    {
+        "name": "Denmark",
+        "region": "Europe",
+        "code": "DK"
+    },
+    {
+        "name": "Estonia",
+        "region": "Europe",
+        "code": "EE"
+    },
+    {
+        "name": "Fiji",
+        "region": "Oceania",
+        "code": "FJ"
+    },
+    {
+        "name": "France",
+        "region": "Europe",
+        "code": "FR"
+    },
+    {
+        "name": "French Guiana",
+        "region": "Americas",
+        "code": "GF"
+    },
+    {
+        "name": "French Polynesia",
+        "region": "Oceania",
+        "code": "PF"
+    },
+    {
+        "name": "Ghana",
+        "region": "Africa",
+        "code": "GH"
+    },
+    {
+        "name": "Gibraltar",
+        "region": "Europe",
+        "code": "GI"
+    },
+    {
+        "name": "Greece",
+        "region": "Europe",
+        "code": "GR"
+    },
+    {
+        "name": "Greenland",
+        "region": "Americas",
+        "code": "GL"
+    },
+    {
+        "name": "Guadeloupe",
+        "region": "Americas",
+        "code": "GP"
+    },
+    {
+        "name": "Guam",
+        "region": "Oceania",
+        "code": "GU"
+    },
+    {
+        "name": "Guatemala",
+        "region": "Americas",
+        "code": "GT"
+    },
+    {
+        "name": "Holy See",
+        "region": "Europe",
+        "code": "VA"
+    },
+    {
+        "name": "Iceland",
+        "region": "Europe",
+        "code": "IS"
+    },
+    {
+        "name": "Isle of Man",
+        "region": "Europe",
+        "code": "IM"
+    },
+    {
+        "name": "Italy",
+        "region": "Europe",
+        "code": "IT"
+    },
+    {
+        "name": "Jersey",
+        "region": "Europe",
+        "code": "JE"
+    },
+    {
+        "name": "Kazakhstan",
+        "region": "Asia",
+        "code": "KZ"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "region": "Asia",
+        "code": "KG"
+    },
+    {
+        "name": "Lithuania",
+        "region": "Europe",
+        "code": "LT"
+    },
+    {
+        "name": "Luxembourg",
+        "region": "Europe",
+        "code": "LU"
+    },
+    {
+        "name": "Macao",
+        "region": "Asia",
+        "code": "MO"
+    },
+    {
+        "name": "Malta",
+        "region": "Europe",
+        "code": "MT"
+    },
+    {
+        "name": "Martinique",
+        "region": "Americas",
+        "code": "MQ"
+    },
+    {
+        "name": "Mexico",
+        "region": "Americas",
+        "code": "MX"
+    },
+    {
+        "name": "Moldova",
+        "region": "Europe",
+        "code": "MD"
+    },
+    {
+        "name": "Montenegro",
+        "region": "Europe",
+        "code": "ME"
+    },
+    {
+        "name": "Netherlands",
+        "region": "Europe",
+        "code": "NL"
+    },
+    {
+        "name": "New Caledonia",
+        "region": "Oceania",
+        "code": "NC"
+    },
+    {
+        "name": "New Zealand",
+        "region": "Oceania",
+        "code": "NZ"
+    },
+    {
+        "name": "Norway",
+        "region": "Europe",
+        "code": "NO"
+    },
+    {
+        "name": "Palau",
+        "region": "Oceania",
+        "code": "PW"
+    },
+    {
+        "name": "Palestine",
+        "region": "Asia",
+        "code": "PS"
+    },
+    {
+        "name": "Panama",
+        "region": "Americas",
+        "code": "PA"
+    },
+    {
+        "name": "Papua New Guinea",
+        "region": "Oceania",
+        "code": "PG"
+    },
+    {
+        "name": "Portugal",
+        "region": "Europe",
+        "code": "PT"
+    },
+    {
+        "name": "Puerto Rico",
+        "region": "Americas",
+        "code": "PR"
+    },
+    {
+        "name": "R\u00e9union",
+        "region": "Africa",
+        "code": "RE"
+    },
+    {
+        "name": "Romania",
+        "region": "Europe",
+        "code": "RO"
+    },
+    {
+        "name": "Suriname",
+        "region": "Americas",
+        "code": "SR"
+    },
+    {
+        "name": "Switzerland",
+        "region": "Europe",
+        "code": "CH"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "region": "Americas",
+        "code": "UM"
+    },
+    {
+        "name": "Uruguay",
+        "region": "Americas",
+        "code": "UY"
+    },
+    {
+        "name": "Uzbekistan",
+        "region": "Asia",
+        "code": "UZ"
+    }
+]

@@ -1,0 +1,70 @@
+{
+    "tokens": [
+        {
+            "token": "",
+            "regions": [
+                "US"
+            ],
+            "expire": 1
+        },
+        {
+            "token": "",
+            "regions": [],
+            "expire": 1
+        }
+    ],
+    "keys": [
+        {
+            "regions": [
+                "US"
+            ],
+            "key": "VoQUVc0J62d%2BioDjqMDYMy8IvxOFkSQT91wSJnYXa%2BCgGaZWLcjb8hUEw2nj683UIsceKSU3rmJNbb1HzUSY%2Fm4LXLsSUNU2otARkwEcXgo5hwRBNVE4NycvxH75Bx1wSvhgmUOzAxwkpReKdk6yaPXoTpZYvRlGP1TPLwAexSz3k9KwHmeireML8BcKGmRc%2FMjmXn9%2B29Ptxx2RzhuQdlCbgBcHhaEsddNI7tGsEU4%3D"
+        },
+        {
+            "regions": [
+                "AU"
+            ],
+            "key": "VoQUVc0J62d%2BioDjqMDYMy8IvxOFkSQT91wSJnYXa%2BCFSo9WDvmWvGxPxoYljdNrb9E%2FsQT3HObdpk9hequDOiAJsP0ruDk1rYy39qYR10FAJfNl%2BtOOYc9q2shwg0DwYl0WhvaxqblsNR33z%2BqeQ0OPmfVWmlB7skXM1A%2BRyN7Y1LFtWkGVI8Lrdu5LMNwn3QYsnm5KKjvF2p23EDO%2BHBjGGGkyRmYuP8Xl8vcbAGk%3D"
+        },
+        {
+            "regions": [
+                "MX"
+            ],
+            "key": ""
+        }
+    ],
+    "regions": [
+        "AR",
+        "AT",
+        "AU",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "DE",
+        "DK",
+        "DO",
+        "EC",
+        "FI",
+        "FR",
+        "GB",
+        "GT",
+        "HN",
+        "IE",
+        "IT",
+        "MX",
+        "NI",
+        "NO",
+        "PA",
+        "PE",
+        "PY",
+        "SE",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+    ]
+}

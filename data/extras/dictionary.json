@@ -1,0 +1,67 @@
+[
+    {
+        "origin": "dizi",
+        "translate": "Series"
+    },
+    {
+        "origin": "program",
+        "translate": "Program"
+    },
+    {
+        "origin": "belgesel",
+        "translate": "Documentary"
+    },
+    {
+        "origin": "film",
+        "translate": "Movie"
+    },
+    {
+        "origin": "cocuk",
+        "translate": "Kids"
+    },
+    {
+        "origin": "muzik",
+        "translate": "Music"
+    },
+    {
+        "origin": "arsiv",
+        "translate": "Archieve"
+    },
+    {
+        "origin": "engelsiz",
+        "translate": ":For Deaf People"
+    },
+    {
+        "origin": "sinif",
+        "translate": "Education"
+    },
+    {
+        "origin": "haber",
+        "translate": "News"
+    },
+    {
+        "origin": "spor",
+        "translate": "Sport"
+    },
+    {
+        "origin": "insan-hikayeleri",
+        "translate": "Documentary"
+    },
+    {
+        "origin": "episode",
+        "translate": "Series"
+    },
+    {
+        "origin": "original",
+        "translate": "Original"
+    },
+    {
+        "origin": "ulusal",
+        "translate": "Documentary"
+    },
+    {
+        "origin": "canli-yayin",
+        "translate": "Live"
+    }
+
+]

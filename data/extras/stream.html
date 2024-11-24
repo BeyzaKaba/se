@@ -1,0 +1,21 @@
+<html>
+  <body class="" style="max-width: 70%; margin-left: 15%; margin-top: 3%; ">
+    <div id="playerContainer"></div>
+    <script src="https://cdn.jsdelivr.net/npm/indigo-player@1/lib/indigo-player.js"></script>
+    <script>
+      const config = {
+        autoplay: true,
+        startPosition: 0,
+        keyboardNavigation: true,
+        sources: [content_json],
+        ui:ui_json
+      };
+
+      const element = document.getElementById('playerContainer');
+      const player = IndigoPlayer.init(element, config);
+
+      // You can use the player object now to access the player and it's methods (play, pause, ...)
+    </script>
+  </body>
+</html>
+
