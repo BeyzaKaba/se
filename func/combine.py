@@ -341,7 +341,30 @@ async def combine(content_information, content_list, content_type, subtitles,
         video = altyz(video,sub)
         await s.delete()
         
-    
+    if platform == "blutv":
+        p = "BLUTV"
+    elif platform == "exxen":
+        p = "EXXEN"
+    elif platform == "disneyplus":
+        p = "DSNP"
+    elif platform == "mubi":
+        p = "MUBI"
+    elif platform == "tabii":
+        p = "TABII"
+    elif platform == "gain":
+        p = "GAIN"
+    elif platform == "puhu":
+        p = "PUHU"
+    else:
+        p = "HPLATFORM"
+
+    a = video.split("0P.")
+    newname = f"{a[0]}{p}.{a[1]}"
+    try:
+        os.rename(video, newname)
+        video = newname
+    except Exception as e:
+        print(e)
     await tg_upload(message,video,desc)
 
 
