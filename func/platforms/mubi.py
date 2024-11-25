@@ -198,23 +198,25 @@ async def download(season, episode,content_type, content_information,
                 sub_down = [wget, sub, '--output-document=' + out_name]
                 subprocess.run(sub_down, capture_output=True, text=True)
                 downloaded_languages.append(lang)
+        try:
+            if len(downloaded_languages) > 1:
+                print_languages = []
+                downloaded_languages.sort()
+                last_language = downloaded_languages[-1]
+                for i in range(len(downloaded_languages) - 1):
+                    print_languages.append(downloaded_languages[i])
+                s_i = ", ".join(
+                    print_languages
+                ) + " and " + last_language + " subtitles are downloaded"
 
-        if len(downloaded_languages) > 1:
-            print_languages = []
-            downloaded_languages.sort()
-            last_language = downloaded_languages[-1]
-            for i in range(len(downloaded_languages) - 1):
-                print_languages.append(downloaded_languages[i])
-            s_i = ", ".join(
-                print_languages
-            ) + " and " + last_language + " subtitles are downloaded"
+            elif len(downloaded_languages) == 1:
+                s_i = downloaded_languages[0] + " subtitle is downloaded"
 
-        elif len(downloaded_languages) == 1:
-            s_i = downloaded_languages[0] + " subtitle is downloaded"
+            info_message = ["INFO:", s_i]
 
-        info_message = ["INFO:", s_i]
-
-        await message.reply_text(" ".join(info_message))
+            await message.reply_text(" ".join(info_message))
+        except Exception as e:
+            print(e)
 
     return video_url
 
