@@ -359,7 +359,7 @@ async def combine(content_information, content_list, content_type, subtitles,
         p = "HPLATFORM"
 
     a = video.split("0P.")
-    newname = f"{a[0]}{p}.{a[1]}"
+    newname = f"{a[0]}0P.{p}.{a[1]}"
     try:
         os.rename(video, newname)
         video = newname
